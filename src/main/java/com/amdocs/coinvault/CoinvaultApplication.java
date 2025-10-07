@@ -8,7 +8,8 @@ public class CoinvaultApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CoinvaultApplication.class, args);
-		System.out.print("FirstCOmmit");
+		System.out.print("FirstCOmmit"); 
+		
 		
 	}
 
